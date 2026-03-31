@@ -1,38 +1,52 @@
-# 👋 Hi, I'm Dhruv Prajapati! 🚀
+# ⚡ Dhruv Prajapati
+### Full-Stack Developer | React & Python Specialist
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Goal-GSoC%202026-brightgreen?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/Status-Building%20Mega--Blog-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main_Stack-React_%7C_Python-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable_Web_Apps-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=232323" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Student:** Pursuing Computer Science & Engineering.
-- 🛠️ **Currently Working On:** [Mega-Blog](https://github.com/dhruv-prajaparti/Mega-Blog) — a full-stack blogging engine.
-- 🎯 **Aspirations:** Contributing to open-source organizations like **JBoss** and **Joplin** for GSoC.
-- 🦈 **Achievement Unlocked:** Chasing the **Pull Shark** badge!
+## 🖋️ The Narrative
+I am a **Software Engineering Student** dedicated to crafting seamless digital experiences where performance meets aesthetics. My philosophy centers on writing clean, maintainable code while ensuring the end-user journey is intuitive and efficient.
+
+Currently, I am deep-diving into the intersection of **asynchronous backend logic with Python** and **dynamic, component-driven interfaces with React**. I believe that great software isn't just about solving a problem—it's about how elegantly that solution is delivered.
 
 ---
 
-### 🛠️ My Tech Stack
-| Frontend | Backend | Tools |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+## 🚀 Core Competencies
+
+#### 🏗️ Frontend Engineering
+Expertise in building responsive, state-managed applications. My current focus is optimizing **React** hooks and component lifecycles to create fluid user interfaces.
+> **Key Project:** [Mega-Blog](https://github.com/dhruv-prajaparti/Mega-Blog) — *An architectural study in full-stack blogging systems.*
+
+#### ⚙️ Backend & Logic
+Leveraging **Python** for robust server-side development. I focus on API design, database management, and ensuring that the "engine" under the hood is as fast as the UI.
+
+#### 🛠️ Tooling & Workflow
+I utilize **Git** for version control and **GitHub** for collaborative CI/CD workflows, ensuring every deployment is stable and documented.
 
 ---
 
-### 📊 GitHub Power Stats
+## 🛠️ Technology Stack
+
+| Ecosystem | Technologies |
+| :--- | :--- |
+| **Development** | `React.js` • `JavaScript (ES6+)` • `Python` • `Node.js` |
+| **Styling & UX** | `CSS3` • `Tailwind CSS` • `Responsive Design` |
+| **Version Control** | `Git` • `GitHub` • `Branch Management` |
+
+---
+
+## 🌐 Vision & Collaboration
+I am actively seeking to collaborate on high-level **React** ecosystems and open-source initiatives that challenge my technical boundaries. I value code reviews, documentation, and the iterative process of software development.
+
+*“Design is not just what it looks like and feels like. Design is how it works.”*
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-prajaparti&show_icons=true&theme=dark&hide_border=false" width="48%" alt="Dhruv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-prajaparti&layout=compact&theme=dark&hide_border=false" width="48%" alt="Dhruv's Top Langs" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Gujarat%2C_India-blue?style=flat-square" />
 </p>
----
-
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
-*“Better to be a warrior in a garden than a gardener in a war. Keep coding!”* 💻
