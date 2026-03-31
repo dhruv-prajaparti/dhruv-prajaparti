@@ -1,5 +1,5 @@
 # Hi there, I'm Dhruv! 👋 
-#Hello
+# Hello
 ### 🚀 Featured Project: [Mega-Blog](https://github.com/dhruv-prajaparti/Mega-Blog)
 > A full-stack blogging platform built with **React** and **JavaScript**.
 
