@@ -25,10 +25,9 @@
 
 ### 📊 GitHub Power Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-prajaparti&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-prajaparti&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-prajaparti&show_icons=true&theme=dark&hide_border=false" width="48%" alt="Dhruv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-prajaparti&layout=compact&theme=dark&hide_border=false" width="48%" alt="Dhruv's Top Langs" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
